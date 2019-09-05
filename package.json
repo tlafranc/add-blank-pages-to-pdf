@@ -1,0 +1,22 @@
+{
+  "name": "add-blank-pages-to-pdf",
+  "version": "1.0.0",
+  "description": "NodesJS script that adds a blank page every second page to a pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlafranc/add-blank-pages-to-pdf.git"
+  },
+  "author": "Thomas Lafrance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlafranc/add-blank-pages-to-pdf/issues"
+  },
+  "homepage": "https://github.com/tlafranc/add-blank-pages-to-pdf#readme",
+  "dependencies": {
+    "pdf-lib": "^1.0.1"
+  }
+}
